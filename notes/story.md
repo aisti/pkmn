@@ -16,6 +16,7 @@ Professor Weltie reminds us that this league uses a team adventuring format and 
 	- Annemarie - Rotom (in ball)
 
 Then to kick things off we have a 4v4!
+
 WE LOSE.  Winners get TMs.  Everyone gets healed up.  Bradley's Geodude is the universal heel.
 
 

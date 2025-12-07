@@ -1,10 +1,13 @@
 # PCs
 ## Marl "Red" Boroughs
 smokes so much weed and knows only dap
+
 wide
+
 player: W
 ### Grookey
 "Dooks"
+
 Bard
 ### Relationships 
 - Mom
@@ -14,7 +17,9 @@ Bard
 
 ## Dulce
 they/them
+
 family/co-op Miltank farm
+
 player: Z
 
 ### Milcery
@@ -26,11 +31,15 @@ player: Z
 
 ## Adeline
 she/her
+
 roller skates
+
 works at a bar joined to a patisserie and lives in apartments upstairs
+
 player: E
 ### Applin
 hangs out in a little Applin-sized martini glass
+
 ?
 ### Relationships
 - brother Pippin 
@@ -42,6 +51,7 @@ hangs out in a little Applin-sized martini glass
 
 ## Barley
 she/her
+
 player: S
 
 ### Dratini
@@ -56,6 +66,7 @@ Paladin
 ## Rivals
 ### Velma
 she/her 
+
 Britta-type pokemon rights activist
 #### Miltank
 
@@ -65,13 +76,16 @@ Britta-type pokemon rights activist
 
 ### Bradley
 he/him 
+
 cop and a narc
+
 Marl's neighbor
 
 #### Geodude
 Barbarian
 ### Annemarie Sauvignon
 younger daughter of the Sauvignon family
+
 succession going fully and directly to her after her adventure, skipping her sister entirely
 #### Rotom
 
