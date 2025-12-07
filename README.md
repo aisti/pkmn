@@ -1,6 +1,11 @@
 # A NEW POKEMON ADVENTURE AWAITS!
 Our heroes (you) are setting out on their very first Pokemon adventure!
 
+## NOTES
+- [Our story so far!](notes/story.md)
+- [Setting](notes/setting.md)
+- [People](notes/characters.md)
+
 ## about
 these are my obsidian session notes lol
 
