@@ -62,6 +62,20 @@ player: S (she)
 ![dratini art!|150](img/pokemon/dratini.png)
 Class: Paladin
 
+---
+## Steven "Veil"
+he/him
+- emo vibes (baggy)
+	- baggy ripped jeans, chains, zipup hoodie
+	- pale, dark eyes
+	- gerard way haircut
+player: Y (he)
+
+### Partner: Ghastly "Murk"
+![ghastly art!|150](img/pokemon/ghastly.png)
+Class: Rogue
+#### Personality
+- silly and lighthearted
 
 ---
 ---
@@ -119,3 +133,10 @@ she/her
 Class: ?
 
 ---
+
+### ???
+?
+- Rival of Veil
+
+#### Partner: ???
+Class: ?
