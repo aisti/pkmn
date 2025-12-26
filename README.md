@@ -16,7 +16,7 @@ if you have never used git before, please just send me a file on discord and i'l
 if you have, feel free to clone this repo and push your own updates!
 
 ### pictures?
-pass
+If you would like pictures of your characters to appear in this repository, which is technically public, DM me
 
 ### wtf is a .md file
 don't worry about it gamer
