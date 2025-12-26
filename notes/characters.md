@@ -106,7 +106,7 @@ Class: ?
 
 ### Pippin
 he/him
-![pippin art!|200](img/pippin.png)
+![pippin art!|200](img/private/pippin.png)
 
 - annoying and really good at pastries
 - skates everywhere
