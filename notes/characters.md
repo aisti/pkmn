@@ -57,8 +57,35 @@ Class: Druid
 ---
 ## Barley
 she/her
-
 player: S (she)
+
+### Appearance
+![barley art!|300](/img/humans/barley.png)
+[Picrew by extraA](https://picrew.me/en/image_maker/701767)
+
+- Height: intimidating
+- Weight: grunt
+- Eyes: determined
+- Hair: long and straight, with an asymmetrical side shave
+- Skin: smudged
+- Age: got something to prove
+### Background
+- member in good standing of the Dockworkers Union, Local 42069
+- Her pops tunes up boats in the marina in Bayport, and she's learned a thing or two from watching him work. When she's not helping out in his shop, she does odd jobs and kind of functions as a go-between for the union folks down dockside. She and her trusty Dratini are just like the union: together they kick butt and get stuff done!
+- More details:
+	- Gender: Normal
+	- Alignment: Lawful Neutral
+	- Faith: Industrial Workers of the World
+	- Traits
+		- I work hard so that I can play hard when the work is done.
+		- My crew know they can rely on me, no matter what.
+	- Ideals
+		- People. I’m committed to my crew, not to ideals. (Neutral)
+	- Bonds
+		- I’m loyal to my union first, everything else second.
+	- Flaws
+		- I follow orders, even if I think they’re wrong.
+
 
 ### Partner: Dratini
 
