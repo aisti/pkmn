@@ -28,5 +28,31 @@ We head down Route 1. The tall grass is uneventful for us, but afterward we pass
 
 We reach Millville, leveling up to 2.
 
+# session 3
+
+Dulce catches up, Adeline ducks out.
+
+We hit the Pokemon Center and ask about the town.
+- Enora, Poison-type gym leader
+- the Guest boat parts factory tours
+- Pokemart
+
+We are effectively broke.  Ways of making money:
+- ante'd trainer fights / gambling
+- beating gyms
+- asking around and helping people out
+- larceny
+
+We head to the factory and chat with the other team on the way in.  Reaffirm our hate for Brad and annoyance with Pippin and Velma, and try to teach Annemarie about living.
+
+Tall older man, round cheeks, quintessential grandfather guy Graham speaking to Marty, a new guy nervously holding pen and clipboard who's shadowing Graham. We introduce ourselves and start the tour.
+
+(We learn that Poison-type pokemon feed off emissions at the factory and release them in the gym battles, which in turn generates energy for the factory.  Pinot Guest-Sauvignon led these scientific advances while her wife Noir Sauvignon used political connections to support maritime infrastructure in the region.)
+
+Lights flicker, loud crashes from below, Graham leaves us to check things out. Marty heads down, checking in with his Varoom Engie and we sneak after.  We reveal ourselves to help him with Graham's password reset questions.
+
+Two rogue Eelektriks are playing in the middle of the room and wreaking havoc with the electrical systems.  We fight them and save the factory! This room is trashed though.  Marty finds a business card with **a toppled wine glass on it spilling black that shines red.**  Maybe the Pokemon were placed here by someone?
+
+We leave and heal up.
 
 
