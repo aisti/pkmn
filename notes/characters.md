@@ -126,8 +126,19 @@ player: Zee (they)
 # NPCs
 ---
 
-## Professor Weltie
+## Gym Leaders
+### Enora
+- The Millville Gym leader. 
+- Uses Poison type pokemon.
+
+---
+## Others
+###  Professor Weltie
 - had us fight to the death to celebrate our adventure beginning
+
+### Graham
+- tour guide at the Guest factory in Millville
+- Big, tall, older, bearded, grandfatherly type. Loves hugs.
 ---
 ## Rivals
 ### Velma
@@ -162,6 +173,7 @@ Class: ?
 he/him 
 - cop and a narc
 - Marl's neighbor
+- hates being called Brad
 
 #### Partner: Geodude
 ![geodude art!|200](/img/pokemon/geodude.png)
@@ -173,6 +185,8 @@ Class: Barbarian
 she/her
 - shy, uncomfortable
 - younger daughter of the Sauvignon family
+	- Parents Pinot and Noir
+	- Older sister Syrah
 - succession going fully and directly to her after her adventure, skipping her sister entirely
 	- Barley is mad about this but doesn't blame her 
 #### Partner: Rotom
