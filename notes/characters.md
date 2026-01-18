@@ -110,6 +110,18 @@ Class: Rogue
 - silly and lighthearted
 
 ---
+## Marty
+he/him
+- nervous
+- new at the factory, taking notes
+- Galarian
+
+player: Zee (they)
+
+### Partner: Varoom "Engie"
+![varoom art!|150](/img/pokemon/varoom.png)
+
+---
 ---
 # NPCs
 ---
