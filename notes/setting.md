@@ -23,6 +23,7 @@ A continent with a wide range of biomes each with one town separated by a nice w
 - Leader Enora
 	- Poison type
 - generates renewable energy for the factory using energy released by the poison pokemon in battle, which in turn feed on the factory's emissions
+- Main battlefield is a wide open industrial warehouse
 
 #### Guest Factory
 - produces boat parts
