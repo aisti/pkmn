@@ -130,6 +130,10 @@ player: Zee (they)
 ### Enora
 - The Millville Gym leader. 
 - Uses Poison type pokemon.
+- Tomboy in carhartts, steel toe boots, sweater.
+
+#### Team
+Trubbish, Koffing, Koffing
 
 ---
 ## Others
