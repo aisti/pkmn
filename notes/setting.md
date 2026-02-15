@@ -33,6 +33,11 @@ A continent with a wide range of biomes each with one town separated by a nice w
 		- scary girlboss lesbians
 
 ---
+### Witchhaven
+- 4th town on circuit
+- meeting place for Syrah supporters
+
+---
 ---
 ## Routes
 ### Route 1
@@ -45,3 +50,7 @@ A continent with a wide range of biomes each with one town separated by a nice w
 
 ---
 
+## Other locations
+
+### Sauvignon family island
+About an hour off the coast of the continent.
