@@ -143,6 +143,13 @@ Trubbish, Koffing, Koffing
 ### Graham
 - tour guide at the Guest factory in Millville
 - Big, tall, older, bearded, grandfatherly type. Loves hugs.
+
+### Syrah Sauvignon
+- Salty about the upset
+
+### Jim Halloween
+- Receptionist at the Millville Gym
+
 ---
 ## Rivals
 ### Velma
