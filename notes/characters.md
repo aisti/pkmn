@@ -94,7 +94,7 @@ player: S (she)
 Class: Paladin
 
 ---
-## Steven "Veil"
+## Steven "Vale"
 he/him
 - emo vibes (baggy)
 	- baggy ripped jeans, chains, zipup hoodie
@@ -197,9 +197,9 @@ Class: ?
 
 ---
 
-### ???
+### Eval
 ?
-- Rival of Veil
+- Rival of Vale
 
 #### Partner: ???
 
